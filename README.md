@@ -90,7 +90,7 @@ For this we need to have participants array ```List<User>``` in one of the entit
 SSL Maybe? And  RSA encryptions
 
 ### Add my feature ideas that you have to improve the API beyond the initial version.
-Attach files, images, videos, live calls and web sockets
+Attach files, images, videos, live calls and web sockets, integration with 3rd party services (like WhatsApp, Facebook) via webhooks
 
 
 
